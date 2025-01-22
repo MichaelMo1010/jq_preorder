@@ -161,11 +161,11 @@
 
     <div class="container">
         <div class="hero-section">
-            <div class="book-cover-placeholder">
-                [Book cover image here]<br>
-                MINDLESS<br>
-                What Happened to Universities
-            </div>
+            <img 
+                src="./images/Screenshot 2025-01-22 at 11.39.23.png" 
+                alt="Mindless: What Happened to Universities by Cary Nelson" 
+                style="width: 100%; height: auto; box-shadow: 0 2px 4px rgba(0,0,0,0.1);"
+            />
             <div>
                 <div class="editorial-voice">WHEN REASON DIED ON CAMPUS</div>
                 <p style="font-size: 24px; color: #666;">The definitive analysis of how universities betrayed their founding principles</p>
@@ -179,18 +179,18 @@
         </div>
 
         <div class="catastrophe-section">
-            <h2 class="catastrophe-heading">FROM CAMPUS TO CATASTROPHE:</h2>
+            <h2 class="catastrophe-heading">THE JOURNEY FROM CAMPUS TO CATASTROPHE ON OUR STREETS:</h2>
             <div class="catastrophe-item">
-                An entire generation, systematically taught to despise their heritage - turning against their own countries, cultures, and civilizations
+                A generation taught to hate, not analyse, our countries, cultures, and civilizations
             </div>
             <div class="catastrophe-item">
-                The death of true education: Where professors once inspired creativity and hope, now conformity and despair rule our lecture halls
+                The death of true education: Professors teaching conformity to revolutionary groupthink, who reject creativity and hope as reactionary, now conformity and despair rule our lecture halls
             </div>
             <div class="catastrophe-item">
-                The inevitable result: Open Jew-hatred masquerading as 'justice', brazen antisemitism presented as 'protest'
+                The result: reason and argument smeared as 'privilege', Jew-hate masquerading as 'justice', antisemitism presented as 'protest', performative anger valourised over learning 
             </div>
             <div class="catastrophe-item">
-                Universities transformed into platforms glorifying murderous ideologies - from Hamas and Hezbollah to the Iranian regime
+                Universities transformed into platforms glorifying murderous 'revolutionary' ideologies - from Hamas and Hezbollah to the Iranian regime
             </div>
         </div>
 
